@@ -1,3 +1,8 @@
+# TF_Utility-InstanceTypeAvailabilityChecker_Public
+## **Description Details:**
+
+This repository provides a Terraform utility to check the availability of instance types in specific AWS regions. From verifying compatibility in availability zones to generating detailed lists, optimize your deployment decisions.
+
 # Terraform Small Utility Project 
 
 ## Step-01: Introduction
